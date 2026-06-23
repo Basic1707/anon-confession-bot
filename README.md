@@ -34,7 +34,7 @@ Open the telegrambot.py file in a text editor. Look for the **\# \--- SETTINGS \
 `TOKEN = "YOUR_BOT_TOKEN"          # Replace with the token from BotFather`  
 `BOT_USERNAME = "YOUR_BOT_USERNAME"  # E.g., "AskMeAnonBot" (without the @)`  
 `ADMIN_ID = 123456789              # Replace with your personal Telegram User ID`  
-`ADMIN_USERNAME = "YOUR_ADMIN_USERNAME" # E.g., "MerdanAdmin" (without the @)`
+`ADMIN_USERNAME = "YOUR_ADMIN_USERNAME" # E.g., "Username" (without the @)`
 
 *Tip: You can find your Telegram User ID by messaging [@userinfobot](https://t.me/userinfobot).*
 
