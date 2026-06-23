@@ -1,1 +1,0 @@
-# anon-confession-bot
